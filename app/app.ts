@@ -29,7 +29,7 @@ client.on("message", function (message) {
         fields: [
           {
             name: `Congrulations!`,
-            value: `\`\`\`Coin: ${++coin}\`\`\``
+            value: `\`\`\`Coin: ${++coin} :coin:\`\`\` `
           }
         ],
         footer: {
