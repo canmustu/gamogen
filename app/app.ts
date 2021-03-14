@@ -28,8 +28,8 @@ client.on("message", function (message) {
         title: `Gamogen Coin Game`,
         fields: [
           {
-            name: `Tebrikler!`,
-            value: `\`\`\`Coin: ${++coin}\`\`\``
+            name: `Congrulations!`,
+            value: `\`\`\`Coin: ${++coin} :coin:\`\`\` `
           }
         ],
         footer: {
